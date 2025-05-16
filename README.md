@@ -38,7 +38,6 @@ Setiap kegiatan dilengkapi informasi kontak untuk mempermudah komunikasi langsun
 - *Frontend*: HTML, CSS, JavaScript  
 - *Backend*: PHP dengan Laravel  
 - *Database*: MySQL  
-- *Integrasi Tambahan*: Google Maps API, Sistem Email (SMTP)
 
 ---
 
