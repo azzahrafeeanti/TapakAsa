@@ -13,14 +13,11 @@ Relawan dapat mencari kegiatan sosial berdasarkan kota, memungkinkan mereka mene
 *Deskripsi dan Panduan Kegiatan*  
 Setiap kegiatan dilengkapi informasi lengkap beserta panduan pelaksanaan agar peserta memahami alur dan peran mereka dalam kegiatan tersebut.
 
-*Donasi Wajib*  
-Setiap kegiatan menetapkan nominal donasi tertentu sebagai bentuk kontribusi wajib peserta. Dana ini digunakan untuk mendukung keberlangsungan kegiatan.
-
-*Lokasi dan Navigasi*  
-Lokasi kegiatan terhubung langsung ke Google Maps agar relawan dapat menavigasi lokasi dengan mudah.
-
 *Jadwal Kegiatan*  
 Informasi tanggal dan waktu kegiatan disajikan dengan jelas untuk mempermudah perencanaan relawan.
+
+*Donasi Wajib*  
+Setiap kegiatan menetapkan nominal donasi tertentu sebagai bentuk kontribusi wajib peserta. Dana ini digunakan untuk mendukung keberlangsungan kegiatan.
 
 *Pendaftaran dan Reservasi Tiket*  
 Sistem reservasi digunakan untuk kegiatan dengan kuota terbatas. Pendaftaran hanya dianggap sah setelah menyelesaikan donasi.
@@ -30,9 +27,6 @@ Kegiatan dapat difilter berdasarkan kota, jenis aksi (sosial, edukasi, lingkunga
 
 *Akun Relawan*  
 Relawan diwajibkan memiliki akun untuk menyimpan riwayat partisipasi, melihat status pendaftaran, dan menerima notifikasi penting seputar kegiatan.
-
-*Notifikasi via Akun dan Email*  
-Semua aktivitas seperti keberhasilan mendaftar, konfirmasi pembayaran donasi, dan status seleksi akan diinformasikan langsung melalui akun pengguna dan email yang terdaftar.
 
 *Kontak Kami*  
 Setiap kegiatan dilengkapi informasi kontak untuk mempermudah komunikasi langsung antara peserta dan panitia. Relawan juga dapat menghubungi kami melalui media sosial yang terintegrasi di platform.
