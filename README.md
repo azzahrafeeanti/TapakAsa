@@ -7,26 +7,20 @@
 
 ## Fitur Unggulan
 
-*Eksplorasi Kegiatan Berdasarkan Kota*  
-Relawan dapat mencari kegiatan sosial berdasarkan kota, memungkinkan mereka menemukan aksi terdekat dari tempat tinggal atau lokasi tujuan.
-
 *Deskripsi dan Panduan Kegiatan*  
 Setiap kegiatan dilengkapi informasi lengkap beserta panduan pelaksanaan agar peserta memahami alur dan peran mereka dalam kegiatan tersebut.
 
 *Jadwal Kegiatan*  
 Informasi tanggal dan waktu kegiatan disajikan dengan jelas untuk mempermudah perencanaan relawan.
 
-*Donasi Wajib*  
-Setiap kegiatan menetapkan nominal donasi tertentu sebagai bentuk kontribusi wajib peserta. Dana ini digunakan untuk mendukung keberlangsungan kegiatan.
-
 *Pendaftaran dan Reservasi Tiket*  
 Sistem reservasi digunakan untuk kegiatan dengan kuota terbatas. Pendaftaran hanya dianggap sah setelah menyelesaikan donasi.
 
-*Filter Kegiatan*  
-Kegiatan dapat difilter berdasarkan kota, jenis aksi (sosial, edukasi, lingkungan), dan waktu pelaksanaan terdekat.
-
 *Akun Relawan*  
-Relawan diwajibkan memiliki akun untuk menyimpan riwayat partisipasi, melihat status pendaftaran, dan menerima notifikasi penting seputar kegiatan.
+Relawan diwajibkan memiliki akun untuk menyimpan riwayat event, melihat tiket, dan menerima notifikasi penting seputar kegiatan.
+
+*Buat Event*
+User dapat membuat dan mengelola event secara mandiri dengan persetujuan admin pusat
 
 *Kontak Kami*  
 Setiap kegiatan dilengkapi informasi kontak untuk mempermudah komunikasi langsung antara peserta dan panitia. Relawan juga dapat menghubungi kami melalui media sosial yang terintegrasi di platform.
