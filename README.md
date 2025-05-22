@@ -19,7 +19,7 @@ Sistem reservasi digunakan untuk kegiatan dengan kuota terbatas. Pendaftaran han
 *Akun Relawan*  
 Relawan diwajibkan memiliki akun untuk menyimpan riwayat event, melihat tiket, dan menerima notifikasi penting seputar kegiatan.
 
-*Buat Event* 
+*Buat Event*                                                                                                                                                                  
 User dapat membuat dan mengelola event secara mandiri dengan persetujuan admin pusat
 
 *Kontak Kami*  
