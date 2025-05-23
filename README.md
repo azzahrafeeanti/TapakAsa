@@ -26,7 +26,7 @@ User dapat membuat dan mengelola event secara mandiri dengan persetujuan admin p
 Setiap kegiatan dilengkapi informasi kontak untuk mempermudah komunikasi langsung antara peserta dan panitia. Relawan juga dapat menghubungi kami melalui media sosial yang terintegrasi di platform.
 
 *CSR*                                                                                                                                                                       
-Laman kerja sama 
+Peluang kerja sama untuk sponsorship, program sosial, hingga kolaborasi komunitas yang berdampak dan berkelanjutan.
 
 ---
 
